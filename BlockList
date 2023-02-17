@@ -81,6 +81,7 @@
 0.0.0.0  https://static.doubleclick.net
 0.0.0.0  https://m.doubleclick.net
 0.0.0.0  https://mediavisor.doubleclick.net
+0.0.0.0  https://googleads.g.doubleclick.net
 [FastClick]
 0.0.0.0  https://fastclick.com
 [Amazon]
