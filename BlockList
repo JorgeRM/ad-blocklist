@@ -1,0 +1,163 @@
+# JorgeRM BlockList
+#
+# Blocking mobile ad providers and some analytics providers
+#
+# Project home page:
+# 0.0.0.0  https://github.com/JorgeRM/ad-blocklist
+#
+# Fetch the latest version of this file:
+# 0.0.0.0  https://github.com/JorgeRM/ad-blocklist/blob/main/BlockList
+#
+# License:
+# CC Attribution 3.0 (0.0.0.0  http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+#
+#
+#
+#
+
+
+[Xiaomi]
+0.0.0.0  https://api.ad.xiaomi.com
+0.0.0.0  https://app.chat.xiaomi.net
+0.0.0.0  https://data.mistat.xiaomi.com
+0.0.0.0  https://data.mistat.intl.xiaomi.com
+0.0.0.0  https://data.mistat.india.xiaomi.com
+0.0.0.0  https://data.mistat.rus.xiaomi.com
+0.0.0.0  https://sdkconfig.ad.xiaomi.com
+0.0.0.0  https://sdkconfig.ad.intl.xiaomi.com
+0.0.0.0  https://globalapi.ad.xiaomi.com
+0.0.0.0  https://www.cdn.ad.xiaomi.com
+0.0.0.0  https://tracking.miui.com
+0.0.0.0  https://tracking.miui.com
+0.0.0.0  https://tracking.intl.miui.com
+0.0.0.0  https://tracking.india.miui.com
+0.0.0.0  https://tracking.rus.miui.com
+[Huawei]
+0.0.0.0  https://metrics.data.hicloud.com
+0.0.0.0  https://metrics1.data.hicloud.com
+0.0.0.0  https://metrics2.data.hicloud.com
+0.0.0.0  https://metrics3.data.hicloud.com
+0.0.0.0  https://metrics4.data.hicloud.com
+0.0.0.0  https://metrics5.data.hicloud.com 
+0.0.0.0  https://logservice.hicloud.com
+0.0.0.0  https://logservice1.hicloud.com
+0.0.0.0  https://metrics-dra.dt.hicloud.com
+0.0.0.0  https://logbak.hicloud.com
+[OnePlus]
+0.0.0.0  https://click.oneplus.cn
+0.0.0.0  https://click.oneplus.com
+0.0.0.0  https://open.oneplus.net
+[Samsung]
+0.0.0.0  https://ad.samsungadhub.com
+0.0.0.0  https://samsungadhub.com
+0.0.0.0  https://samsungads.com
+0.0.0.0  https://smetrics.samsung.com
+0.0.0.0  https://nmetrics.samsung.com
+0.0.0.0  https://samsung-com.112.2o7.net
+0.0.0.0  https://business.samsungusa.com
+0.0.0.0  https://analytics.samsungknox.com
+0.0.0.0  https://analytics-api.samsunghealthcn.com
+0.0.0.0  https://config.samsungads.com
+[Apple]
+0.0.0.0  https://metrics.apple.com
+0.0.0.0  https://securemetrics.apple.com
+0.0.0.0  https://supportmetrics.apple.com
+0.0.0.0  https://metrics.icloud.com
+0.0.0.0  https://metrics.mzstatic.com
+[Google Ads]
+0.0.0.0  https://pagead2.googlesyndication.com
+0.0.0.0  https://adservice.google.com
+0.0.0.0  https://pagead2.googleadservices.com
+[Media.net]
+0.0.0.0  https://static.media.net
+0.0.0.0  https://media.net
+0.0.0.0  https://adservetx.media.net
+[Doubleclick.net]
+0.0.0.0  https://doubleclick.net/
+0.0.0.0  https://ad.doubleclick.net/
+0.0.0.0  https://static.doubleclick.net
+0.0.0.0  https://m.doubleclick.net
+0.0.0.0  https://mediavisor.doubleclick.net
+[FastClick]
+0.0.0.0  https://fastclick.com
+[Amazon]
+[0.0.0.0  https://adtago.s3.amazonaws.com
+0.0.0.0  https://analyticsengine.s3.amazonaws.com
+0.0.0.0  https://advice-ads.s3.amazonaws.com
+0.0.0.0  https://affiliationjs.s3.amazonaws.com
+0.0.0.0  https://advertising-api-eu.amazon.com
+0.0.0.0  https://amazonaax.com
+0.0.0.0  https://amazonclix.com
+0.0.0.0  https://assoc-amazon.com
+[Analytics]
+[Google Analytics]
+0.0.0.0  https://google-analytics.com
+0.0.0.0  https://ssl.google-analytics.com
+[Hotjar]
+0.0.0.0  https://hotjar.com
+0.0.0.0  https://static.hotjar.com
+[MouseFlow]
+0.0.0.0  https://mouseflow.com/
+0.0.0.0  https://a.mouseflow.com
+[FreshMarketer]
+0.0.0.0  https://freshmarketer.com/
+[Luckyorange]
+0.0.0.0  https://luckyorange.com
+0.0.0.0  https://cdn.luckyorange.com
+0.0.0.0  https://w1.luckyorange.com
+0.0.0.0  https://upload.luckyorange.net
+0.0.0.0  https://cs.luckyorange.net
+0.0.0.0  https://settings.luckyorange.net
+[Stats WP Plugin]
+0.0.0.0  https://stats.wp.com
+[Error Trackers]
+Bugsnag: [
+0.0.0.0  https://notify.bugsnag.com
+0.0.0.0  https://sessions.bugsnag.com
+0.0.0.0  https://api.bugsnag.com
+0.0.0.0  https://app.bugsnag.com
+[Sentry]
+0.0.0.0  https://browser.sentry-cdn.com
+0.0.0.0  https://app.getsentry.com
+[Social Trackers]
+[Facebook]
+0.0.0.0  https://pixel.facebook.com
+0.0.0.0  https://ads.facebook.com
+0.0.0.0  https://an.facebook.com
+Twitter: [0.0.0.0  https://ads-api.twitter.com
+0.0.0.0  https://advertising.twitter.com
+[LinkedIn]
+0.0.0.0  https://ads.linkedin.com
+0.0.0.0  https://analytics.pointdrive.linkedin.com
+[Pinterest]
+0.0.0.0  https://ads.pinterest.com
+0.0.0.0  https://log.pinterest.com
+0.0.0.0  https://ads-dev.pinterest.com
+0.0.0.0  https://analytics.pinterest.com
+0.0.0.0  https://trk.pinterest.com
+0.0.0.0  https://widgets.pinterest.com
+[Reddit]
+0.0.0.0  https://ads.reddit.com
+0.0.0.0  https://d.reddit.com
+0.0.0.0  https://rereddit.com
+0.0.0.0  https://events.redditmedia.com
+[YouTube]
+0.0.0.0  https://ads.youtube.com
+[TikTok]
+0.0.0.0  https://analytics.tiktok.com
+0.0.0.0  https://ads.tiktok.com
+0.0.0.0  https://analytics-sg.tiktok.com
+0.0.0.0  https://ads-sg.tiktok.com
+[Mix]
+[Yahoo]
+0.0.0.0  https://ads.yahoo.com
+0.0.0.0  https://global.adserver.yahoo.com
+0.0.0.0  https://analytics.yahoo.com
+0.0.0.0  https://ads.yap.yahoo.com
+[Yandex]
+0.0.0.0  https://appmetrica.yandex.com
+0.0.0.0  https://yandexadexchange.net
+0.0.0.0  https://analytics.mobile.yandex.net
+
