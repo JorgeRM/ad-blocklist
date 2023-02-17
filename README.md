@@ -4,11 +4,14 @@
 
  Blocking mobile ad providers and some analytics providers
 
- Project home page:
- 0.0.0.0  https://github.com/JorgeRM/ad-blocklist
+## Project home page:
 
- Fetch the latest version of this file:
- 0.0.0.0  https://github.com/JorgeRM/ad-blocklist/blob/main/BlockList
+  https://github.com/JorgeRM/ad-blocklist
 
- License:
+## Fetch the latest version of this file:
+
+  https://raw.githubusercontent.com/JorgeRM/ad-blocklist/main/BlockList
+
+## License:
+
  CC Attribution 3.0 (0.0.0.0  http://creativecommons.org/licenses/by/3.0/)
