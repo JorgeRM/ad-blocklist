@@ -114,15 +114,17 @@
 0.0.0.0  https://settings.luckyorange.net
 [Stats WP Plugin]
 0.0.0.0  https://stats.wp.com
+
 [Error Trackers]
-Bugsnag: [
 0.0.0.0  https://notify.bugsnag.com
 0.0.0.0  https://sessions.bugsnag.com
 0.0.0.0  https://api.bugsnag.com
 0.0.0.0  https://app.bugsnag.com
+
 [Sentry]
 0.0.0.0  https://browser.sentry-cdn.com
 0.0.0.0  https://app.getsentry.com
+
 [Social Trackers]
 [Facebook]
 0.0.0.0  https://pixel.facebook.com
